@@ -7,26 +7,22 @@ For this part of the Challenge, write a report that summarizes your updated anal
 
 ### Purpose
 
-This analysis uses Python to 
+This analysis uses Python to analyze standardized test data to identify performance trends around spending, grade, school, and school type. After the initial analysis, potential academic dishonesty was identified throughout the ninth grade of Thomas High School, so the analysis was run again, removing that group of students from the reporting. This report will identify the changes and comparison to the original analysis
 
 
 ## School District Analysis Results
 
-How is the district summary affected?
-- 
+- The district summary was not really affected by removing the ninth graders from Thomas High School. The average math score dropped by 0.1, the passing math percent dropped by 0.2%, the passing reading percent dropped by 0.3%, and the overall passing dropped by 0.1%.
 
-How is the school summary affected?
-- 
+- The school summary for Thomas High School was also minimally affected by removing the ninth grade scores. The largest change was in the overall passing percent, which dropped by 0.3%.
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-- 
+- Replacing the ninth graders' math and reading scores did not change Thomas High School's position as the second best performing school, with their overall passing percent remaining at 91%.
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-- 
+Thomas High School ninth graders were also removed for the following comparisons:
+- Math and reading scores were replaced with nan for the ninth graders, but the other grades and schools were not affected.
+- Scores by school spending were unaffected by removing the Thomas High School ninth graders.
+- Scores by school size were unaffected by removing the Thomas High School ninth graders.
+- Scores by school type were unaffected by removing the Thomas High School ninth graders.
 
 
 ## School District Analysis Summary
