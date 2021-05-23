@@ -11,10 +11,10 @@ This analysis uses Python to analyze standardized test data to identify performa
 
 - The district summary was not really affected by removing the ninth graders from Thomas High School, as shown below. The average math score dropped by 0.1, the passing math percent dropped by 0.2%, the passing reading percent dropped by 0.3%, and the overall passing dropped by 0.1%.</br>
 
-District Summary including Thomas High School ninth grade scores:</br>
-![Alt Text](https://github.com/lyanneagger/School_District_Analysis/blob/main/Resources/district_summary1.png)</br>
-District Summary after Thomas High School ninth grade scores were replaced with NaN:</br>
-![Alt Text](https://github.com/lyanneagger/School_District_Analysis/blob/main/Resources/district_summary2.png)
+   District Summary including Thomas High School ninth grade scores:</br>
+   ![Alt Text](https://github.com/lyanneagger/School_District_Analysis/blob/main/Resources/district_summary1.png)</br>
+   District Summary after Thomas High School ninth grade scores were replaced with NaN:</br>
+   ![Alt Text](https://github.com/lyanneagger/School_District_Analysis/blob/main/Resources/district_summary2.png)
 
 
 - The school summary for Thomas High School was also minimally affected by removing the ninth grade scores. The largest change was in the overall passing percent, which dropped by 0.3%.
